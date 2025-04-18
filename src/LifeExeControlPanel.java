@@ -28,9 +28,9 @@ public class LifeExeControlPanel extends JFrame {
         JPanel cardPanel = new JPanel(new GridLayout(1, 3, 20, 20));
         cardPanel.setPreferredSize(new Dimension(700, 250));
 
-        JButton redCardButton = createCardButton("Pull a Consequence", Color.RED, () -> drawCard("red"));
-        JButton blueCardButton = createCardButton("Take a Trivia Challenge", Color.CYAN, this::showTriviaCard);
-        JButton greenCardButton = createCardButton("Reflect + Reset", Color.GREEN, () -> drawCard("green"));
+        JButton redCardButton = createCardButton("Perils", Color.RED, () -> drawCard("red"));
+        JButton blueCardButton = createCardButton("Trivia Challenge", Color.CYAN, this::showTriviaCard);
+        JButton greenCardButton = createCardButton("Consequences", Color.GREEN, () -> drawCard("green"));
 
         cardPanel.add(redCardButton);
         cardPanel.add(blueCardButton);
