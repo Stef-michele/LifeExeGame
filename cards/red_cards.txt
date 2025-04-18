@@ -1,3 +1,10 @@
 Your email password was leaked in a website data breach. - Move Back 1 Space
-You make a comment online that a local public official should be "taken out." True Threats are Not Protected by 1st Amendment - Move Backward Two Spaces.
-You claim code from GitHub as your own, violating copyright law. - Move Backward One Space
+You make a comment online that a local public official should be "taken out." True Threats are Not Protected by 1st Amendment - Move Backward 2 Spaces.
+You claim code from GitHub as your own, violating copyright law. - Move Backward 1 Space
+Your indoor webcam has been hacked allowing access to your network - Move backward 1 Space
+You create an advertisement that makes a false claim about a political official. This is not protected by the first amendment - Move backward 2 spaces.
+You download mp3's to your computer without paying for them, violating copyright. Move backward 2 spaces.
+You decide to share a viral video about a celebrity that turned out to be fake. Move backward 1 space.
+A bug was discovered in software that you built causing the company a monetary loss. Move backward 2 spaces.
+You download an application from the internet that contains a virus. Move backward 2 spaces.
+You job has been eliminated and will instead be fullfilled by offshore resources. Move backward 1 space.

@@ -1,3 +1,10 @@
-Your First Amendment Right to Free Speech applies to statements made on social media? | FALSE
+T/F Your First Amendment Right to Free Speech applies to statements made on social media? | FALSE
 Computer code is protected by: Patent. Trademark. Copyright, or Fair Use? | Copyright
 What European Privacy Law Establishes the "Right to be Forgotten" | The GDPR
+Informed Consent is an example of what type of Law? Privacy, Intellectual Property or Criminal? | Privacy
+T/F: According to the first amendment it is legal to advocate for an illegal act (ie selling drugs) | True
+Name on type of intellectual property protection | Possible: Copyrights, Patents, Trademarks & Trade Secrets
+T/F: The digital divide refers to the gap between those who have access to technology and those who do not | True
+T/F: The advancement of technology has led to mass unemployment | False
+T/F: A DDoS attack involves overloading a target site so that normal users cannot access it. | True
+T/F: It is always possible to achieve perfection when developing computer systems | False
