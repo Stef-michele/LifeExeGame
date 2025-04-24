@@ -1,4 +1,4 @@
-T/F Your First Amendment Right to Free Speech applies to statements made on social media? | FALSE
+T/F Your First Amendment Right to Free Speech applies to statements made on social media? | False
 Computer code is protected by: Patent. Trademark. Copyright, or Fair Use? | Copyright
 What European Privacy Law Establishes the "Right to be Forgotten" | The GDPR
 Informed Consent is an example of what type of Law? Privacy, Intellectual Property or Criminal? | Privacy
@@ -8,3 +8,31 @@ T/F: The digital divide refers to the gap between those who have access to techn
 T/F: The advancement of technology has led to mass unemployment | False
 T/F: A DDoS attack involves overloading a target site so that normal users cannot access it. | True
 T/F: It is always possible to achieve perfection when developing computer systems | False
+What amendment protects from unreasonable searches and seizures? | Fourth
+T/F: The USA Patriot Act allowed the government to access financial records without a cord order | True
+What federal law gives students certain privacy rights regarding their educational records? | FERPA
+T/F: The U.S. has a single, comprehensive law that protects all personal data privacy? | False
+T/F: A school teacher can be fired for what they say online? | True
+T/F: According to the 1st Amendment, you can use profanity at law enforcement | True - but still not advisable
+Which of the following types of speech is NOT protected by the 1st Amendment? Political criticism, hate speech, inciting violence or offensive language? | Inciting violence
+Which amendment of the U.S. Constitution protects freedom of speech? | First Amendment
+T/F: Software can be patented? | True
+T/F: Business routinely pay royalties and license fees for use of intellectual property. | True
+T/F: Posting a virus as a joke, even if it doesn't cause serious harm, is still considered a crime? | True
+What is the term for using a computer to access or alter information without authorization? | Hacking
+T/F: In Russia, it is a crime to slander government officials? | True
+T/F: Government officials in Singapore have long used libel laws to bankrupt political opponents who criticize them? | True
+T/F: It is virtually impossible to produce programs with no errors | True
+What legal test helps determine whether material is considered obscene? | The Miller Test
+T/F: Data processing and computer programming were among the first service jobs to go offshore | True
+T/F: The mayor of New York proposed limiting the number of  Uber cars allowed in the city | True
+T/F: Companies are always required to tell you when they are collecting your data | False
+T/F Wikipedia is only edited by professionals? | False
+T/F: Users ignore or overide warnings that occur often, particular if they do not understand the warning? | True
+T/F: It is a bad idea to reuse old programming? | False
+T/F: The right to privacy is explicitly listed in the U.S. Constitution? | False
+T/F: Encryption helps protect privacy by what? | Making data unreadable without an encryption key.
+T/F: In India, Bangledash and Pakistan, roughly three times as many men as women own facebook? | True
+T/F: Risk analysis should consider both the likelihood of a problem and the severity of its consequences? | True
+What is often overlooked in system design, contributing to failures? Business needs or user behavior and misuse? | User behavior and misuse
+T/F: In 1990 less than 22% of households owned a computer in the United States? | True
